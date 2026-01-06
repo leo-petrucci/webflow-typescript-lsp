@@ -7,7 +7,7 @@
     "plugins": [
         {
             "name": "typescript-lsp",
-            "version": "0.1.0",
+            "version": "1.0.0",
             "source": "./typescript-lsp",
             "description": "TypeScript and JavaScript language server integration.",
             "category": "development",
