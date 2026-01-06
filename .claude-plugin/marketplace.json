@@ -1,0 +1,26 @@
+{
+    "name": "webflow-plugins",
+    "owner": {
+        "name": "Leonardo Petrucci",
+        "email": "leo.petrucci@webflow.com"
+    },
+    "plugins": [
+        {
+            "name": "typescript-lsp",
+            "version": "0.1.0",
+            "source": "./typescript-lsp",
+            "description": "TypeScript and JavaScript language server integration.",
+            "category": "development",
+            "tags": [
+                "typescript",
+                "javascript",
+                "lsp",
+                "language-server"
+            ],
+            "author": {
+                "name": "Leonardo Petrucci",
+                "email": "leo.petrucci@webflow.com"
+            }
+        }
+    ]
+}
